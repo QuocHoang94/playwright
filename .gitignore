@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Playwright reports
+playwright-report/
+
+# Test results
+test-results/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
